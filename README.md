@@ -23,6 +23,16 @@ Click the link below to see the loading screen in action:
 
 ---
 
+## ⚠️ Important
+- This project does **not include music or video files by default**  
+- You must add your own **music files** into the correct folder  
+- You must add your own **video file** into the video/background folder  
+- Make sure formats are supported (e.g. `.mp4`, `.mp3`)  
+
+> You are responsible for the content you use (copyright, licensing, etc.)
+
+---
+
 ## ⚙️ Customization
 You can easily customize the loading screen in the `config.js` file:
 
@@ -48,7 +58,8 @@ If you need help with setup, customization, or anything else, don’t hesitate t
 1. Download or clone this repository  
 2. Add the resource to your `resources` folder  
 3. Configure everything in `config.js`  
-4. Start/restart your server  
+4. Add your **music and video files** to the correct folders  
+5. Start/restart your server  
 
 ---
 
