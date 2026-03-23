@@ -63,10 +63,5 @@ If you need help with setup, customization, or anything else, don’t hesitate t
 
 ---
 
-## 🔗 Repository
-👉 **[GitHub – RT LoadingScreen](https://github.com/vaxerCZ/rt_loadingscreen)**  
-
----
-
 ## 📜 License
 Free to use. Check the license file for more details.
